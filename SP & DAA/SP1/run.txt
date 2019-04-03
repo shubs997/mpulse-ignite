@@ -1,0 +1,7 @@
+administrator@it-pl2-pc24:~/Desktop$ lex Lex1.l
+administrator@it-pl2-pc24:~/Desktop$ yacc Yacc1.y
+administrator@it-pl2-pc24:~/Desktop$ yacc -d Yacc1.y
+administrator@it-pl2-pc24:~/Desktop$ cc lex.yy.c y.tab.c -ll -ly
+administrator@it-pl2-pc24:~/Desktop$ ./a.out
+12+12
+=24

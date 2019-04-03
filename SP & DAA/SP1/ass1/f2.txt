@@ -1,0 +1,32 @@
+(AD,1) - (C,0)
+[0]  (IS,1) 1 (S,1)
+[1]  (IS,7) - (S,3)
+[2]  (IS,3) 2 (L,1)
+[3]  (IS,4) 2 (S,4)
+
+----------------------------------------------
+Error : Register not found(BC statement) at [4]
+[4]  (IS,10) -1 (S,1)
+
+----------------------------------------------
+Three Token Error 1: Register not found [5]
+[5]  (AD,5) - 009
+[6]  (AD,6) - 003
+
+----------------------------------------------
+ Two Token Error : Token not found in MOT and POT[9]
+
+----------------------------------------------
+Three Token Error :Token not found in MOT[9]
+[9]  (IS,4) 2 (L,2)
+[10]  (AD,5) - 0090
+[11]  (AD,7) - 0010
+[12]  (IS,5) 3 (L,3)
+[13]  (IS,7) - (L,3)
+[14]  (IS,8) - (L,4)
+[15]  (AD,7) - 0010
+
+----------------------------------------------
+Three Token Error : Symbol not found(DS statement)[16]
+[16]  (AD,2) - 007
+[17]  (AD,2) - 0019
