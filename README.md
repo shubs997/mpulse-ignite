@@ -1,4 +1,4 @@
-# WEBAPP UI FOR M-PULSE IGNITE - ANNUAL TECHNICAL FEST OF MODERN COLLEGE OF ENGINEERING
+# Webapp UI for M-PULSE IGNITE - Annual Technical Fest of Modern College Of Engineering
 ![Alt Text](https://raw.githubusercontent.com/shubs997/mpulse-ignite/master/PROJECT_GIF.gif)
 
 
